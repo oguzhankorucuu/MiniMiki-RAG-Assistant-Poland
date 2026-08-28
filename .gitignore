@@ -1,0 +1,17 @@
+# === Gizli bilgiler ===
+# Gerçek API key'i içerir — asla commit edilmemeli.
+appsettings.json
+
+# === .NET build çıktıları ===
+bin/
+obj/
+
+# === IDE / editör ===
+.vs/
+.vscode/
+*.user
+*.suo
+
+# === İşletim sistemi ===
+Thumbs.db
+.DS_Store
